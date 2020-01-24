@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">ThePointTTS</h1>
+  <h1 align="center">ThePointsTTS</h1>
 
   <p align="center">
     Chat to Speech for Twitch highlighted message for Streamlabs Chatbot
